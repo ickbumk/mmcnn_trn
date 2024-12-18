@@ -1,6 +1,8 @@
 # Probabilistic regression for autonomous terrain relative navigation via multi-modal feature learning
 You can find the full paper [HERE](https://www.nature.com/articles/s41598-024-81377-z)
 
+Kim, Ickbum, and Sandeep Singh. "Probabilistic regression for autonomous terrain relative navigation via multi-modal feature learning." Scientific Reports 14.1 (2024): 1-16.
+
 
 ## Architecture
 ![Figure 1: MMCNN](CNN_arch.PNG)
@@ -49,3 +51,4 @@ If you found this useful, please cite us
   publisher={Nature Publishing Group}
 }
 ```
+
