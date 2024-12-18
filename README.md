@@ -2,7 +2,9 @@
 You can find the full paper [HERE](https://www.nature.com/articles/s41598-024-81377-z)
 
 
-## Overview
+## Architecture
+![Figure 1: MMCNN](CNN_arch.png)
+
 
 ## Pre-requisites
 This has been tested with  
